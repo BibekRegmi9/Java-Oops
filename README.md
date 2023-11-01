@@ -52,23 +52,23 @@ open url = ```http://localhost:3009/averagesale```
 
 
     Total Sale
-    ```md
+    
     ![total sale](assets//1.png)
     ![total sale](assets//2.png)
-    ```
+    
 
     Highest and Lowest Sales
-    ```md
+    
     ![highest sale](assets//3.png)
     ![lowest sale](assets//4.png)
     ![highest and lowest sale](assets//5.png)
-    ```
+    
 
     Average Sale
-     ```md
+    
     ![total sale](assets//6.png)
     ![total sale](assets//7.png)
-    ```
+    
 
 
 
