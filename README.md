@@ -52,20 +52,27 @@ open url = ```http://localhost:3009/averagesale```
 
 
     Total Sale
-    
+    ![1](https://github.com/BibekRegmi9/Java-Oops/assets/47585371/709a08ec-4774-4e3f-bacd-f59e4f7de029)
+    ![2](https://github.com/BibekRegmi9/Java-Oops/assets/47585371/7bb4ee71-fd8f-4162-9d90-96daa1eb6a7d)
+
     ![total sale](assets//1.png)
     ![total sale](assets//2.png)
     
 
     Highest and Lowest Sales
-    
+    ![4](https://github.com/BibekRegmi9/Java-Oops/assets/47585371/76611ea1-c106-4c0e-aacb-0519e22ec34b)
+    ![3](https://github.com/BibekRegmi9/Java-Oops/assets/47585371/12823bf5-f2e5-4ba4-9ae3-c779cd202902)
+    ![5](https://github.com/BibekRegmi9/Java-Oops/assets/47585371/eafab089-9b55-4a9e-a4af-7e7470138a86)
+
     ![highest sale](assets//3.png)
     ![lowest sale](assets//4.png)
     ![highest and lowest sale](assets//5.png)
     
 
     Average Sale
-    
+    ![6](https://github.com/BibekRegmi9/Java-Oops/assets/47585371/bfbb9996-944d-49c1-bacb-0001a73a06df)
+    ![7](https://github.com/BibekRegmi9/Java-Oops/assets/47585371/19828446-769e-43f9-8ba6-945f51c7280c)
+
     ![total sale](assets//6.png)
     ![total sale](assets//7.png)
     
